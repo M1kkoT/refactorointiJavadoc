@@ -2,6 +2,7 @@ package kivipaperisakset;
 
 /**
  * suorittaa kivi, paperi, sakset peliä
+ * @Author Mikko Tanhola
  */
 public class Pelimoottori {
     private Pelaaja[] pelaajat; //lista pelaajista

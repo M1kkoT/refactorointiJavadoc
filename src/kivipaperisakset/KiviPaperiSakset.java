@@ -2,6 +2,7 @@ package kivipaperisakset;
 
 /**
  * Luokka pelaamaan yhden kierroksen kivi, sakset paperia
+ * @Author Mikko Tanhola
  */
 public class KiviPaperiSakset {
 
